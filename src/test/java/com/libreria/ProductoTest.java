@@ -1,6 +1,6 @@
 package com.libreria;
 
-import com.libreria.model.Producto;
+import com.librería.model.Producto;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

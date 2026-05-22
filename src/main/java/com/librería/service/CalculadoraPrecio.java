@@ -1,4 +1,4 @@
-package com.librería.service;
+package com.libreria.service;
 
 public class CalculadoraPrecio {
 }
