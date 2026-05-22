@@ -59,6 +59,7 @@ public class ProductoSteps {
     @Then("el precio final debe ser {double}")
     public void validarPrecioFinal(double esperado) {
 
-        assertEquals(esperado, resultado);
+        assertEquals(esperado, resultado, 0.001);
+
     }
 }
