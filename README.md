@@ -1,6 +1,10 @@
 # Librería Parcial Sofia
 
+
+
 ## Parte 1 — Análisis
+
+
 
 ### Regla 1 — Particiones de equivalencia
 
@@ -12,6 +16,8 @@
 
 ---
 
+
+
 ### Regla 2 — Particiones de equivalencia
 
 | Partición | Tipo | Valor representativo | Resultado esperado |
@@ -22,6 +28,8 @@
 | Descuento negativo | Inválida | -5 | Error |
 
 ---
+
+
 
 ### Regla 2 — Valores límite
 
@@ -35,6 +43,8 @@
 | 41 | Error |
 
 ---
+
+
 
 ### Regla 3 — Pregunta para el administrador
 
